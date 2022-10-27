@@ -1,9 +1,9 @@
 {
   "settingsReloadIntervalMinutes": 1,
   "fullscreen": false,
-  "autoStart": True,
+  "autoStart": true,
   "lazyLoadTabs": false,
-  "closeExistingTabs": True,
+  "closeExistingTabs": true,
   "websites": [
     {
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Welcome.jpg",
@@ -16,6 +16,5 @@
       "tabReloadIntervalSeconds": 15
     }
   
-    }
   ]
 }
