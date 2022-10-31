@@ -41,7 +41,7 @@
       "tabReloadIntervalSeconds": 15
     },
   {
-      "url": "file:///C:/Users/Wallbaord-A/Documents/Wallboard/Welcome.jpg",
+      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Welcome.jpg",
       "duration": 45,
       "tabReloadIntervalSeconds": 45
     },
