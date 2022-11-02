@@ -1,3 +1,5 @@
+
+
 {
   "settingsReloadIntervalMinutes": 1,
   "fullscreen": true,
@@ -13,41 +15,41 @@
     {
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star1.jpg",
       "duration": 25,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 12.5
     },
   {
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star2.jpg",
       "duration": 25,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 12.5
     },
     {
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star3A.jpg",
       "duration": 25,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 12.5
     },
   {
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star3B.jpg",
       "duration": 25,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 12.5
     },
   {
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star4.jpg",
       "duration": 25,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 12.5
     },
   {
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/StarT.jpg",
       "duration": 25,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 12.5
     },
   {
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Welcome.jpg",
       "duration": 45,
-      "tabReloadIntervalSeconds": 45
+      "tabReloadIntervalSeconds": 25
     },
  {
-      "url": "file:///C:/amznT.gif",
-      "duration": 20,
+      "url": "file:///C:/amzn2.mp4",
+      "duration": 50,
       "tabReloadIntervalSeconds": 15
     }
 
