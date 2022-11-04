@@ -47,6 +47,11 @@
       "duration": 20,
       "tabReloadIntervalSeconds": 12.5
     },
+     {
+      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/TP.jpg",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 25
+    },
   {
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Welcome.jpg",
       "duration": 45,
@@ -57,6 +62,5 @@
       "duration": 25,
       "tabReloadIntervalSeconds": 15
     }
-
   ]
 }
