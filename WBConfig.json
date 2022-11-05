@@ -52,11 +52,6 @@
       "duration": 45,
       "tabReloadIntervalSeconds": 25
     },
-  {
-      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Welcome.jpg",
-      "duration": 45,
-      "tabReloadIntervalSeconds": 25
-    },
  {
       "url": "file:///C:/amzn2.mp4",
       "duration": 25,
