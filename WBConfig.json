@@ -45,12 +45,17 @@
     },    
 		  {
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/R4N7.JPG",
-      "duration": 30,
+      "duration": 20,
       "tabReloadIntervalSeconds": 20
     },
           {
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/R4N8.JPG",
-      "duration": 30,
+      "duration": 20,
+      "tabReloadIntervalSeconds": 20
+          },
+	        {
+      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/R4N9.JPG",
+      "duration": 20,
       "tabReloadIntervalSeconds": 20
           },
             {
