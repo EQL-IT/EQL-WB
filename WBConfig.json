@@ -43,6 +43,21 @@
       "duration": 60,
       "tabReloadIntervalSeconds": 15000
     },    
+		  {
+      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/R4N7.JPG",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 20
+    },
+          {
+      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/R4N85.JPG",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 20
+          },
+            {
+      "url": "https://analytics.ringcentral.co.uk/full/live-reports/461192067-466631067-144b5286-de69-42b8-921c-7f63a2985b7d",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 15000
+    },    
        {
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Art1.jpg",
       "duration": 30,
@@ -53,6 +68,27 @@
       "duration": 30,
       "tabReloadIntervalSeconds": 20
     },
+    
+            {
+      "url": "https://analytics.ringcentral.co.uk/full/live-reports/461192067-466631067-144b5286-de69-42b8-921c-7f63a2985b7d",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 15000
+    },    
+       {
+      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/R4N4.JPG",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 20
+    },
+          {
+      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/R4N5.JPG",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 20
+          },
+     {
+      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/R4N6.JPG",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 20
+          },
             {
       "url": "https://analytics.ringcentral.co.uk/full/live-reports/461192067-466631067-144b5286-de69-42b8-921c-7f63a2985b7d",
       "duration": 60,
@@ -68,21 +104,26 @@
       "duration": 15,
       "tabReloadIntervalSeconds": 12.5
     },
+    
                {
       "url": "https://analytics.ringcentral.co.uk/full/live-reports/461192067-466631067-144b5286-de69-42b8-921c-7f63a2985b7d",
       "duration": 60,
       "tabReloadIntervalSeconds": 15000
     },    
        {
-      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Art3.jpg",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 12.5
+      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/R4N1.JPG",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 20
     },
           {
-      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Art4.jpg",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 12.5
+      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/R4N2.JPG",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 20
+    },
+         {
+      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/R4N3.JPG",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 20
     }
-
   ]
 }
