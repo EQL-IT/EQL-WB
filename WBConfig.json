@@ -37,18 +37,7 @@
       "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/StarT.jpg",
       "duration": 15,
       "tabReloadIntervalSeconds": 15
-    },
-        {
-      "url": "https://analytics.ringcentral.co.uk/full/live-reports/461192067-466631067-144b5286-de69-42b8-921c-7f63a2985b7d",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 15000
-    },    
-	  		  {
-      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/key.jpg",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 60
-    },
-	  
+    }, 
 	       {
       "url": "https://analytics.ringcentral.co.uk/full/live-reports/461192067-466631067-144b5286-de69-42b8-921c-7f63a2985b7d",
       "duration": 60,
@@ -120,18 +109,7 @@
       "url": "https://equilaw.freshstatus.io/",
       "duration": 15,
       "tabReloadIntervalSeconds": 12.5
-    },
-	              {
-      "url": "https://analytics.ringcentral.co.uk/full/live-reports/461192067-466631067-144b5286-de69-42b8-921c-7f63a2985b7d",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 15000
-    },  
-	 	  		  {
-      "url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/key.jpg",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 60
-    }, 
-    
+    },   
                {
       "url": "https://analytics.ringcentral.co.uk/full/live-reports/461192067-466631067-144b5286-de69-42b8-921c-7f63a2985b7d",
       "duration": 60,
