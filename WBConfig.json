@@ -79,6 +79,7 @@
 		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Art4.jpg",
 			"duration": 30,
+			"tabReloadIntervalSeconds": 15
 		}
 		
 	]
