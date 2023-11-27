@@ -30,11 +30,6 @@
 			"tabReloadIntervalSeconds": 1000
 		},
 		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/key.jpg",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 180
-		},
-		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star1.jpg",
 			"duration": 15,
 			"tabReloadIntervalSeconds": 15
