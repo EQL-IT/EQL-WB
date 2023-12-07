@@ -19,12 +19,7 @@
 			"url": "https://analytics.ringcentral.co.uk/full/live-reports/461192067-466631067-c003276d-2db2-4fdd-a986-dc9d57e384e2",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 1000
-		},	
-		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/christmas.jpg",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 180
-		}
+		},
 		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star1.jpg",
 			"duration": 20,
