@@ -5,12 +5,7 @@
 	"lazyLoadTabs": false,
 	"closeExistingTabs": true,
 	"websites": [
-  {
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/key.jpg",
-			"duration": 86000,
-			"tabReloadIntervalSeconds": 86000
-		},
-		{
+  	{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Team 3a.jpg",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 30
