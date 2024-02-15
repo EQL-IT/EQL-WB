@@ -7,7 +7,7 @@
 	"websites": [
 		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/valentines.jpg",
-			"duration": 36000,
+			"duration": 30,
 			"tabReloadIntervalSeconds": 30
 		},
 		{
