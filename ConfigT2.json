@@ -21,16 +21,6 @@
 			"tabReloadIntervalSeconds": 1000
 		},
 		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/thankyout3.jpg",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 180
-		},
-		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/magicmoments.jpg",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 180
-		},
-		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star1.jpg",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 180
@@ -42,11 +32,6 @@
 		},
 		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star4.jpg",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 180
-		},
-		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/achievements.jpg",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 180
 		},
