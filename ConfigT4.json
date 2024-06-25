@@ -45,6 +45,11 @@
 			"duration": 20,
 			"tabReloadIntervalSeconds": 180
 		},
+				{
+			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/t4graph.jpg",
+			"duration": 20,
+			"tabReloadIntervalSeconds": 180
+		},
 		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/teamblueobjectives.jpg",
 			"duration": 20,
