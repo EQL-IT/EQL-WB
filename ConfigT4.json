@@ -11,11 +11,6 @@
 			"tabReloadIntervalSeconds": 30
 		},
 		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/colourrun.jpg",
-			"duration": 30,
-			"tabReloadIntervalSeconds": 30
-		},
-         {
 			"url": "https://analytics.ringcentral.co.uk/full/live-reports/461192067-466631067-144b5286-de69-42b8-921c-7f63a2985b7d",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 1000
@@ -32,6 +27,11 @@
 		},
 		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star2-3.jpg",
+			"duration": 20,
+			"tabReloadIntervalSeconds": 180
+		},
+		{
+			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/SOTM.jpg",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 180
 		},
