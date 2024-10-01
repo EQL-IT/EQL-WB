@@ -6,11 +6,6 @@
 	"closeExistingTabs": true,
 	"websites": [
  		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/OneSavings.jpg",
-			"duration": 43000,
-			"tabReloadIntervalSeconds": 30
-		},
-		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Team 3.jpg",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 30
