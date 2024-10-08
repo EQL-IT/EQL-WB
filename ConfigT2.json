@@ -46,6 +46,11 @@
 			"tabReloadIntervalSeconds": 180
 		},
 		{
+			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/trickortreat.jpg",
+			"duration": 20,
+			"tabReloadIntervalSeconds": 180
+		},
+		{
 			"url": "https://analytics.ringcentral.co.uk/full/live-reports/461192067-466631067-144b5286-de69-42b8-921c-7f63a2985b7d",
 			"duration": 60,
 			"tabReloadIntervalSeconds": 15000
