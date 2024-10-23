@@ -125,7 +125,11 @@
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Slide5.JPG",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 20
-		}
+		},
 		
-	]
+	{
+			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Halloween Poster.jpg",
+			"duration": 20,
+			"tabReloadIntervalSeconds": 60
+		[
 }
