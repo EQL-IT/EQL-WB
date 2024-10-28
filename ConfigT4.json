@@ -61,11 +61,6 @@
 			"tabReloadIntervalSeconds": 180
 		},
 		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/teamblueobjectives.jpg",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 180
-		},
-		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/t4leaderboard.jpg",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 30
