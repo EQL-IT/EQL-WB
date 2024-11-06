@@ -21,11 +21,6 @@
 			"tabReloadIntervalSeconds": 1000
 		},
 		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/halloweent4.jpg",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 180
-		},
-		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star1.jpg",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 180
@@ -42,11 +37,6 @@
 		},
 		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/SOTM.jpg",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 180
-		},
-		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Halloween.jpg",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 180
 		},
