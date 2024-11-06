@@ -15,7 +15,7 @@
 			"duration": 30,
 			"tabReloadIntervalSeconds": 1000
 		},	
-        {
+      		{
 			"url": "https://analytics.ringcentral.co.uk/full/live-reports/461192067-466631067-e98e9f98-7727-4a71-9092-823d425667c6",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 1000
