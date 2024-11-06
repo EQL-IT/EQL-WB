@@ -41,11 +41,6 @@
 			"tabReloadIntervalSeconds": 180
 		},
 		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Halloween.jpg",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 180
-		},
-		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/T1RFT.jpg",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 180
