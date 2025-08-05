@@ -26,6 +26,16 @@
 			"tabReloadIntervalSeconds": 15000
 		},
 		{
+			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/SOTM.jpg",
+			"duration": 30,
+			"tabReloadIntervalSeconds": 20
+		},
+		{
+			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/SOTM2.jpg",
+			"duration": 30,
+			"tabReloadIntervalSeconds": 20
+		},
+		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Art1.jpg",
 			"duration": 30,
 			"tabReloadIntervalSeconds": 20
