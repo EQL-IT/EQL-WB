@@ -26,19 +26,19 @@
 			"tabReloadIntervalSeconds": 180
 		},
 		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star2-3.jpg",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 180
-		},
-		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/Star4.jpg",
 			"duration": 20,
 			"tabReloadIntervalSeconds": 180
 		},
 		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/SOTM.jpg",
-			"duration": 20,
-			"tabReloadIntervalSeconds": 180
+			"duration": 30,
+			"tabReloadIntervalSeconds": 20
+		},
+		{
+			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/SOTM2.jpg",
+			"duration": 30,
+			"tabReloadIntervalSeconds": 20
 		},
 		{
 			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/t4graph.jpg",
