@@ -42,11 +42,6 @@
 			"tabReloadIntervalSeconds": 15000
 		},
 		{
-			"url": "https://raw.githubusercontent.com/EQL-IT/EQL-WB/main/TP.jpg",
-			"duration": 45,
-			"tabReloadIntervalSeconds": 25
-		},
-		{
 			"url": "https://equilaw.freshstatus.io/",
 			"duration": 15,
 			"tabReloadIntervalSeconds": 12.5
